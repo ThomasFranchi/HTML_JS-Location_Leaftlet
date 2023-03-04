@@ -1,0 +1,13 @@
+#map { height: 580px; }
+
+/* .container {
+    display: flex;
+
+} */
+
+.container{
+    width : 50%;
+    margin: auto;
+    text-align: center;
+
+}
